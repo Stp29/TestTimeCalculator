@@ -1,0 +1,2 @@
+#define IDI_DISPLAYICON 1
+IDI_DISPLAYICON ICON "timer_clock.ico"
